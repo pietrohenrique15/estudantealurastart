@@ -1,5 +1,5 @@
 Boas vindas ao meu perfil 💙💙
-Meu nome é Pietro henrique
+Meu nome é **Pietro henrique**
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
